@@ -20,13 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b881592-c9a2-4a8d-ae62-7aea9345a760" name="Default Changelist" comment="抽象工厂模式">
-      <change afterPath="$PROJECT_DIR$/SingletonMode/src/hungry/HungrySingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SingletonMode/src/hungry/HungryStaticSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SingletonMode/src/hungry/饿汉单例模式.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SingletonMode/src/lazy/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SingletonMode/src/lazy/LazySingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SingletonMode/src/lazy/LazyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SingletonMode/src/lazy/懒汉单例模式.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.en.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingletonMode/src/hungry/HungrySingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/SingletonMode/src/hungry/HungrySingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingletonMode/src/hungry/HungryStaticSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/SingletonMode/src/hungry/HungryStaticSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingletonMode/src/hungry/饿汉单例模式.md" beforeDir="false" afterPath="$PROJECT_DIR$/SingletonMode/src/hungry/饿汉单例模式.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingletonMode/src/lazy/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/SingletonMode/src/lazy/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingletonMode/src/lazy/LazySingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/SingletonMode/src/lazy/LazySingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingletonMode/src/lazy/懒汉单例模式.md" beforeDir="false" afterPath="$PROJECT_DIR$/SingletonMode/src/lazy/懒汉单例模式.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +45,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -63,9 +69,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/FactoryMode/src/abstracts/factory" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -98,6 +105,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -110,6 +118,8 @@
       <updated>1603890036659</updated>
       <workItem from="1603890038174" duration="4006000" />
       <workItem from="1604065864262" duration="5644000" />
+      <workItem from="1649941609323" duration="2068000" />
+      <workItem from="1649943709878" duration="601000" />
     </task>
     <task id="LOCAL-00001" summary=":pencil: README.md file update">
       <created>1603890250517</created>
@@ -143,7 +153,7 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -155,7 +165,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value=":pencil: README.md file update" />
@@ -163,80 +172,5 @@
     <MESSAGE value="工厂方法模式" />
     <MESSAGE value="抽象工厂模式" />
     <option name="LAST_COMMIT_MESSAGE" value="抽象工厂模式" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="275" y="0" width="816" height="728" key="#Intentions" timestamp="1604067052451">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="275" y="0" width="816" height="728" key="#Intentions/0.0.1366.728@0.0.1366.728" timestamp="1604067052451" />
-    <state x="488" y="69" key="#com.intellij.ide.util.MemberChooser" timestamp="1604069303546">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="488" y="69" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1604069303546" />
-    <state width="1323" height="223" key="GridCell.Tab.0.bottom" timestamp="1604072207608">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604072207608" />
-    <state width="1323" height="223" key="GridCell.Tab.0.center" timestamp="1604072207608">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="223" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1604072207608" />
-    <state width="1323" height="223" key="GridCell.Tab.0.left" timestamp="1604072207608">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="223" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1604072207608" />
-    <state width="1323" height="223" key="GridCell.Tab.0.right" timestamp="1604072207608">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="223" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1604072207608" />
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1604072207609">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604072207609" />
-    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1604072207608">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1604072207608" />
-    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1604072207608">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1604072207608" />
-    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1604072207608">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1604072207608" />
-    <state x="163" y="0" key="SettingsEditor" timestamp="1603892861679">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1603892861679" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1604067165907">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1604067165907" />
-    <state x="57" y="0" key="new project wizard" timestamp="1604066751130">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="57" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1604066751130" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/SingletonMode/src/lazy/LazySingleton.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/SingletonMode/src/lazy/Client.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
-          <url>file://$PROJECT_DIR$/SingletonMode/src/lazy/LazyTest.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
