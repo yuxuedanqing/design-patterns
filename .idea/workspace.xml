@@ -19,17 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b881592-c9a2-4a8d-ae62-7aea9345a760" name="Default Changelist" comment="抽象工厂模式">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.en.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SingletonMode/src/hungry/HungrySingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/SingletonMode/src/hungry/HungrySingleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SingletonMode/src/hungry/HungryStaticSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/SingletonMode/src/hungry/HungryStaticSingleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SingletonMode/src/hungry/饿汉单例模式.md" beforeDir="false" afterPath="$PROJECT_DIR$/SingletonMode/src/hungry/饿汉单例模式.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SingletonMode/src/lazy/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/SingletonMode/src/lazy/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SingletonMode/src/lazy/LazySingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/SingletonMode/src/lazy/LazySingleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SingletonMode/src/lazy/懒汉单例模式.md" beforeDir="false" afterPath="$PROJECT_DIR$/SingletonMode/src/lazy/懒汉单例模式.md" afterDir="false" />
+    <list default="true" id="8b881592-c9a2-4a8d-ae62-7aea9345a760" name="Default Changelist" comment="style(Singleton): 修改代码格式规范&#10;&#10;修改代码格式规范，修改 README.md">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SingletonMode/hungry/饿汉单例模式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SingletonMode/lazy/懒汉单例模式.md" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +112,7 @@
       <workItem from="1603890038174" duration="4006000" />
       <workItem from="1604065864262" duration="5644000" />
       <workItem from="1649941609323" duration="2068000" />
-      <workItem from="1649943709878" duration="601000" />
+      <workItem from="1649943709878" duration="932000" />
     </task>
     <task id="LOCAL-00001" summary=":pencil: README.md file update">
       <created>1603890250517</created>
@@ -149,7 +142,21 @@
       <option name="project" value="LOCAL" />
       <updated>1603893941904</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="style(Singleton): 修改代码格式规范&#10;&#10;修改代码格式规范，修改 README.md">
+      <created>1649944474227</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1649944474227</updated>
+    </task>
+    <task id="LOCAL-00006" summary="style(Singleton): 修改代码格式规范&#10;&#10;修改代码格式规范，修改 README.md">
+      <created>1649944503799</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1649944503799</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,6 +178,7 @@
     <MESSAGE value="简单工厂模式" />
     <MESSAGE value="工厂方法模式" />
     <MESSAGE value="抽象工厂模式" />
-    <option name="LAST_COMMIT_MESSAGE" value="抽象工厂模式" />
+    <MESSAGE value="style(Singleton): 修改代码格式规范&#10;&#10;修改代码格式规范，修改 README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="style(Singleton): 修改代码格式规范&#10;&#10;修改代码格式规范，修改 README.md" />
   </component>
 </project>
