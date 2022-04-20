@@ -12,9 +12,11 @@
 + 迪米特法则
 + 合成复用原则
 
+http://c.biancheng.net/design_pattern/
 
 ## 练习完成度
 23 种设计模式汇总
 
 - [x] 工厂模式
 - [x] 单例模式
+- [x] 原型模式
