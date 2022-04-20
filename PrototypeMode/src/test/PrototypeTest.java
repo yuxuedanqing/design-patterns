@@ -1,6 +1,5 @@
 package test;
 
-import clone.Circle;
 import clone.ProtoTypeManager;
 import clone.Realizetype;
 import clone.Shape;
