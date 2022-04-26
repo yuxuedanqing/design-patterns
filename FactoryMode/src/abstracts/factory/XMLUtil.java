@@ -1,13 +1,12 @@
 package abstracts.factory;
 
-import java.io.File;
-
-import javax.xml.parsers.DocumentBuilder;
-import javax.xml.parsers.DocumentBuilderFactory;
-
 import org.w3c.dom.Document;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
+
+import javax.xml.parsers.DocumentBuilder;
+import javax.xml.parsers.DocumentBuilderFactory;
+import java.io.File;
 
 
 /**
@@ -30,7 +29,7 @@ public class XMLUtil {
 			String cName=classNode.getNodeValue();
 			//通过类名生成实例对象并将其返回
 			Class<?> c = Class.forName(cName);
-			return c.newInstance();
+			return c.getDeclaredConstructor().newInstance();
 		}catch (Exception e) {
 			e.printStackTrace();
 			return null;
